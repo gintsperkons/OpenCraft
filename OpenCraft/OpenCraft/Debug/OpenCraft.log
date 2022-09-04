@@ -1,0 +1,8 @@
+﻿  World.cpp
+D:\Programming\Projects\OpenGL\OpenCraft\OpenCraft\Window\Window.h(21,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Programming\Projects\OpenGL\OpenCraft\OpenCraft\Window\Window.h(22,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Programming\Projects\OpenGL\OpenCraft\OpenCraft\World\Chunk.h(14,22): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Programming\Projects\OpenGL\OpenCraft\OpenCraft\World\Chunk.h(15,22): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Programming\Projects\OpenGL\OpenCraft\OpenCraft\World\World.cpp(22,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Projects\OpenGL\OpenCraft\OpenCraft\World\World.cpp(23,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  OpenCraft.vcxproj -> D:\Programming\Projects\OpenGL\OpenCraft\Debug\OpenCraft.exe
